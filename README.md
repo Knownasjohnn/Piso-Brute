@@ -4,6 +4,14 @@ Description: This tool is made for educational purposes only don't use it for an
 
 Installation
 
--pip install requests
+pip install requests
 
--
+git clone https://github.com/Knownasjohnn/Piso-Brute
+
+cd Piso-Brute
+
+python Piso-Brute.py
+
+[+]
+
+Enter your target
